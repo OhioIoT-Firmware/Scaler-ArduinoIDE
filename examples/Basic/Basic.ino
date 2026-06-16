@@ -1,6 +1,6 @@
 
 
-#include <OhioIoT.h>
+#include <OhioIoT-Scaler.h>
 
 #include "credentials.h"
 
