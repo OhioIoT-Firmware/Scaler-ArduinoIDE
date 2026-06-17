@@ -9,7 +9,7 @@ Everything in Minimalist, plus telemetry, app commands, and message routing.
 1. Download this repo as a ZIP (green **Code** button -> Download ZIP).
 2. Arduino IDE: **Sketch -> Include Library -> Add .ZIP Library**, choose the ZIP.
 3. Open **File -> Examples -> OhioIoT-Scaler -> Basic**.
-4. Copy `credentials.template` to `credentials.h`, fill it in, then Upload. credentials.h is git-ignored so your secrets stay private.
+4. Fill in the four WiFi/MQTT values at the top of the sketch, then Upload.
 
 ## What's included
 
