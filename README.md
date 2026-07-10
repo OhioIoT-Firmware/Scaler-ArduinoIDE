@@ -1,4 +1,4 @@
-# OhioIoT — Scaler (ArduinoIDE)
+# OhioIoT — Scaler SDK for Arduino IDE
 
 The **Scaler** tier of the OhioIoT device firmware SDK for ESP32.
 
